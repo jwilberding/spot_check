@@ -1,0 +1,6 @@
+{application, spot_check,
+ [{description, "Program to analyze spot checks of devices"},
+  {vsn, 1},
+  {modules, []},
+  {registered, []},
+  {applications, [kernel, stdlib]}]}.
